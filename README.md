@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Prático
 
 Este projeto é uma aplicação web desenvolvida com Next.js, React e TypeScript.
@@ -73,3 +74,6 @@ pnpm start
 - `src/modules` — módulos da aplicação
 - `src/shared` — componentes, hooks, utilidades e tipos reutilizáveis
 - `public` — arquivos estáticos
+=======
+# Projeto-pratico
+>>>>>>> origin/main
