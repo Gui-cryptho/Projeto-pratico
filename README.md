@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Projeto Prático
 
 Este projeto é uma aplicação web desenvolvida com Next.js, React e TypeScript.
@@ -77,3 +78,6 @@ pnpm start
 =======
 # Projeto-pratico
 >>>>>>> origin/main
+=======
+# Projeto-pratico
+>>>>>>> 21f9a20c05d5c75c000db174d96798a9e2fb9d6d
